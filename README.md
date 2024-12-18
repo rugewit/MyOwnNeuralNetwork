@@ -310,7 +310,7 @@ loss_func = MAE()
 
 После запуска тренировки, мы получаем такой график потерь по эпохам.
 
-![1](https://github.com/MAILabs-Edu-2024/rugewit/MyOwnNeuralNetwork/blob/main/images/1.png)
+![1](https://github.com/rugewit/MyOwnNeuralNetwork/blob/main/images/1.png)
 
 **Итоговая точность: accuracy = 0.9736**
 
